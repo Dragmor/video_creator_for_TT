@@ -1,0 +1,9 @@
+pip install pillow==9.5.0
+pip install auto-py-to-exe
+pip install opencv-python
+pip install wand
+pip install moviepy
+pip uninstall numpy
+pip install numpy==1.23.0
+
+https://docs.wand-py.org/en/latest/guide/install.html#install-imagemagick-on-windows
